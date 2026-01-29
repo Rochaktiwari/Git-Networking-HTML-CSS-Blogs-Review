@@ -58,3 +58,10 @@ This repository contains links to my published blogs covering **Git, Networking,
   https://understandingwebdevelopment.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup
 
 ---
+## Hashnode Profile (Backup Link)
+
+In case any individual blog link is inaccessible, all published blogs can also be found on my Hashnode profile:
+
+https://understandingwebdevelopment.hashnode.dev/
+
+---
