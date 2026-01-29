@@ -29,7 +29,7 @@ This repository contains links to my published blogs covering **Git, Networking,
 ## 🔧 Git & Version Control
 
 - **Git for Beginners: Basics and Essential Commands**  
-  https://hashnode.com/edit/cmkyd1v6c002f02jr1cy9e3rk
+  https://understandingwebdevelopment.hashnode.dev/git-for-beginners-basics-and-essential-commands
 
 - **Inside Git: How It Works and the Role of the .git Folder**  
   https://understandingwebdevelopment.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder
